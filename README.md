@@ -13,15 +13,6 @@ This project explores how **advanced encryption** and **custom transaction valid
 
 We tested for common vulnerabilities like **replay attacks**, **data tampering**, and **unauthorized access**, and documented improvements to strengthen the system.
 
----
-
-## 📊 System Architecture
-
-Below is the conceptual flow of how wallet data is encrypted and how transactions are validated:
-
-
-
----
 
 ## 🔐 Key Features
 
@@ -60,10 +51,9 @@ Below is the conceptual flow of how wallet data is encrypted and how transaction
 
 ## 📷 Flowchart – Encryption & Validation Flow
 
-![Crypto Security Flowchart](https://raw.githubusercontent.com/openai-content/images/main/crypto-security-flowchart.png)
+![Crypto Security Flowchart](https://github.com/saicharankarasala/Enhancing-Security-Privacy-of-Cryptocurrency-Transactions/blob/main/flowchart.jpg?raw=true)
 
-> _Illustration: Flowchart showing wallet encryption and validation steps_  
-> _(This image is a placeholder. You can replace it with your own using GitHub or Lucidchart export.)_
+> _Illustration: Flowchart showing wallet encryption, transaction validation, and handling logic._
 
 ---
 
